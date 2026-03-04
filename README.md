@@ -31,4 +31,18 @@ The following key business questions were solved using SQL:
 
 12.Cumulative revenue over time
 
-Revenue generated per category
+13.Revenue generated per category
+
+### 📈 Key Insights
+
+Identified the best-selling pizza categories
+
+Determined peak order hours
+
+Calculated total and category-wise revenue
+
+Found high-performing pizza sizes
+
+Analyzed customer ordering patterns
+
+
