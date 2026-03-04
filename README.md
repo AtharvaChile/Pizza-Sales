@@ -7,28 +7,28 @@ This project analyzes a pizza sales dataset using SQL to extract meaningful busi
 
 The following key business questions were solved using SQL:
 
-Total number of orders
+1.Total number of orders
 
-Total revenue generated
+2.Total revenue generated
 
-Highest priced pizza
+3.Highest priced pizza
 
-Most common pizza size ordered
+4.Most common pizza size ordered
 
-Top 5 most ordered pizzas
+5.Top 5 most ordered pizzas
 
-Total quantity ordered per category
+6.Total quantity ordered per category
 
-Distribution of orders by hour
+7.Distribution of orders by hour
 
-Category-wise pizza distribution
+8.Category-wise pizza distribution
 
-Average number of pizzas ordered per day
+9.Average number of pizzas ordered per day
 
-Percentage contribution of each pizza category to revenue
+10.Percentage contribution of each pizza category to revenue
 
-Top 3 pizzas by revenue
+11.Top 3 pizzas by revenue
 
-Cumulative revenue over time
+12.Cumulative revenue over time
 
 Revenue generated per category
